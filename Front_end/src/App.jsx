@@ -335,7 +335,7 @@ function App() {
     <div className="App">
       {/* Navigation Bar - FIXED: Replaced <a> with <button> */}
       <nav className="navbar">
-        <div className="logo">📚 StudentMS</div>
+        <div className="logo">📚 Student Management System</div>
         <div className="nav-links">
           <button 
             className={currentPage === 'home' ? 'active' : ''}
